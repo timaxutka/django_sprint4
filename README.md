@@ -8,7 +8,7 @@ Django Sprint 4 - это проект на Django, созданный для д�
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/drugojkira/django_sprint4
+    git clone https://github.com/timaxutka/django_sprint4
     ```
 2. Перейдите в директорию проекта:
     ```bash
